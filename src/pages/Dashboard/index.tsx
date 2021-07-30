@@ -103,6 +103,5 @@ export const Dashboard: FC = () => {
       </Repos>
     </>    
   )
-
 };
 
